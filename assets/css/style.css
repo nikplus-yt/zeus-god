@@ -501,6 +501,7 @@ button:hover {
   .prev,
   .next,
   .text {
+    color: cyan;
     font-size: 11px;
   }
   .logo {
